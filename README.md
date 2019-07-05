@@ -8,4 +8,4 @@ This project icludes examples of:
 - Functional programming usage
 - Unit tests
 - VIPER architecture
-- Custom approaches
+- Custom coding practices 
